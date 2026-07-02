@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Семен Кучеренко](https://up.htmlacademy.ru/javascript-individual/2/user/2534725).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Никитина](https://up.htmlacademy.ru/javascript-individual/2/user/2534725).
 
 ---
 
